@@ -1,0 +1,12 @@
+C:\Repositorio\APIs\api.test.optativoiv\servicios\bin\Debug\net6.0\servicios.deps.json
+C:\Repositorio\APIs\api.test.optativoiv\servicios\bin\Debug\net6.0\servicios.dll
+C:\Repositorio\APIs\api.test.optativoiv\servicios\bin\Debug\net6.0\ref\servicios.dll
+C:\Repositorio\APIs\api.test.optativoiv\servicios\bin\Debug\net6.0\servicios.pdb
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.AssemblyInfoInputs.cache
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.AssemblyInfo.cs
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.csproj.CoreCompileInputs.cache
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.dll
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\ref\servicios.dll
+C:\Repositorio\APIs\api.test.optativoiv\servicios\obj\Debug\net6.0\servicios.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8881c6a2-e3d2-457b-9ec0-40bc55e0480a": {
+      "ProjectGuid": "8881c6a2-e3d2-457b-9ec0-40bc55e0480a",
+      "DisplayName": "api.test.optativoiv",
+      "ColorIndex": 0
+    },
+    "38d62b1c-f05e-4652-a1b4-92ae5c88674d": {
+      "ProjectGuid": "38d62b1c-f05e-4652-a1b4-92ae5c88674d",
+      "DisplayName": "servicios",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

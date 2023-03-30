@@ -30,6 +30,8 @@ namespace api.test.optativoiv.Controllers
         public ActionResult<PersonaModel> ConsultarPersona(int id, string documento)
         {
             PersonaModel resultadoPersona = new PersonaModel();
+            var peronaItem=personaModel[id+1];
+            resultadoPersona = (PersonaModel)peronaItem;
             return Ok(resultadoPersona);
         }
     }

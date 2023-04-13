@@ -27,3 +27,9 @@ C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.xml
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.xml
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Dapper.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Npgsql.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.pdb
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.pdb

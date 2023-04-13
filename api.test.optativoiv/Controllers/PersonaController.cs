@@ -1,6 +1,7 @@
 ﻿using api.test.optativoiv.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Services.Services;
 
 namespace api.test.optativoiv.Controllers
 {
@@ -8,31 +9,31 @@ namespace api.test.optativoiv.Controllers
     [Route("api/[controller]")]
     public class PersonaController : Controller
     {
-        private List<PersonaModel> personaModel;
+        private string ConnectionString = "Server=127.0.0.1;Port=5433;Database=postgres;User Id=postgres;Password=123456;";
+        private PersonaService personaService;
 
         public PersonaController()
         {
-            personaModel = new List<PersonaModel>()
-            {
-                new PersonaModel { Id = 1, Nombre = "Juan", Apellido = "Perez", Edad = 30, Email = "jp@example.com", Telefono = "09812341564" },
-                new PersonaModel { Id = 2, Nombre = "Mario", Apellido = "Gomez", Edad = 25, Email = "mg@example.com", Telefono = "09812341545"},
-                new PersonaModel { Id = 3, Nombre = "Antonio", Apellido = "Mazacote", Edad = 25, Email = "am@example.com", Telefono = "09915674654"},
-            };
+            this.personaService = new PersonaService(ConnectionString);    
         }
 
         [HttpGet("ListarPersona")]
         public ActionResult<List<PersonaModel>> ListarPersonas()
-        {
-            return Ok(personaModel);
+        {   
+            var resultado = personaService.listarPersona();
+            return Ok(resultado);
         }
 
         [HttpGet("ConsultarPersona/{id}")]
         public ActionResult<PersonaModel> ConsultarPersona(int id, string documento)
         {
-            PersonaModel resultadoPersona = new PersonaModel();
-            var peronaItem=personaModel[id+1];
-            resultadoPersona = (PersonaModel)peronaItem;
-            return Ok(resultadoPersona);
+            return Ok(null);
+        }
+
+        [HttpPost("InsertarPersona")]
+        public ActionResult<string> insertarPersona(PersonaModel modelo)
+        {
+            return Ok("Ok");
         }
     }
 }

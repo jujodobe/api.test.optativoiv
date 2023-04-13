@@ -1,0 +1,12 @@
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\bin\Debug\net6.0\infraestructure.deps.json
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\bin\Debug\net6.0\infraestructure.dll
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\bin\Debug\net6.0\ref\infraestructure.dll
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\bin\Debug\net6.0\infraestructure.pdb
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.AssemblyInfoInputs.cache
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.AssemblyInfo.cs
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.csproj.CoreCompileInputs.cache
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.dll
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\ref\infraestructure.dll
+C:\Repositorio\APIs\api.test.optativoiv\infraestructure\obj\Debug\net6.0\infraestructure.pdb

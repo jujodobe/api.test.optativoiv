@@ -24,7 +24,12 @@ namespace Services.Services
 
         public string modificarPersona(PersonaModel persona, int id)
         {
-            return validarDatosPersona(persona) ? repositoryPersona.modificarPersona(persona, id) : throw new Exception("Error en la validacion");
+            if (repositoryPersona.consultarPersona(id) != null)
+                return validarDatosPersona(persona) ?
+                    repositoryPersona.modificarPersona(persona, id) :
+                    throw new Exception("Error en la validacion");
+            else
+                return "No se encontraron los datos de esta persona";
         }
 
         public string eliminarPersona(int id)
@@ -44,10 +49,10 @@ namespace Services.Services
 
         private bool validarDatosPersona(PersonaModel persona)
         {
-            if (persona.Nombre.Trim().Length > 2)
-            {
-                return false;
-            }
+            //if (persona.Nombre.Trim().Length < 2)
+            //{
+            //    return false;
+            //}
 
             return true;
         }

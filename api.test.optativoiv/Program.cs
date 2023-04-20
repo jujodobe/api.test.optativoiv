@@ -17,6 +17,8 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
+builder.Services.AddSingleton(builder.Configuration.GetSection("ConnectionStrings"));
+
 var app = builder.Build();  
 
 // Configure the HTTP request pipeline.

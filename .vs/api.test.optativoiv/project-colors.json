@@ -10,7 +10,22 @@
       "ProjectGuid": "38d62b1c-f05e-4652-a1b4-92ae5c88674d",
       "DisplayName": "servicios",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "a7c75f57-2603-4731-aeeb-79126119addc": {
+      "ProjectGuid": "a7c75f57-2603-4731-aeeb-79126119addc",
+      "DisplayName": "infraestructure",
+      "ColorIndex": 2
+    },
+    "d573c9d3-c452-48d5-9376-a1d53d33edd4": {
+      "ProjectGuid": "d573c9d3-c452-48d5-9376-a1d53d33edd4",
+      "DisplayName": "Services",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

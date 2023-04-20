@@ -42,7 +42,7 @@ namespace infraestructure.Repository
                     "edad = @edad, " +
                     "email = @email, " +
                     "telefono = @telefono " +
-                    $"WHERE id = {id}");
+                    $"WHERE id = {id}", persona);
                 return "Se modificaron los datos correctamente...";
             }
             catch (Exception ex)

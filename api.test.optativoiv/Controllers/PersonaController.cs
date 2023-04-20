@@ -9,12 +9,13 @@ namespace api.test.optativoiv.Controllers
     [Route("api/[controller]")]
     public class PersonaController : Controller
     {
-        private string ConnectionString = "Server=127.0.0.1;Port=5433;Database=postgres;User Id=postgres;Password=123456;";
         private PersonaService personaService;
+        private IConfiguration configuration;
 
-        public PersonaController()
+        public PersonaController(IConfiguration configuration)
         {
-            this.personaService = new PersonaService(ConnectionString);    
+            this.configuration = configuration;
+            this.personaService = new PersonaService(configuration.GetConnectionString("postgresDB"));    
         }
 
         [HttpGet("ListarPersona")]
@@ -25,15 +26,44 @@ namespace api.test.optativoiv.Controllers
         }
 
         [HttpGet("ConsultarPersona/{id}")]
-        public ActionResult<PersonaModel> ConsultarPersona(int id, string documento)
+        public ActionResult<PersonaModel> ConsultarPersona(int id)
         {
-            return Ok(null);
+            var resultado = this.personaService.consultarPersona(id);
+            return Ok(resultado);
         }
 
         [HttpPost("InsertarPersona")]
         public ActionResult<string> insertarPersona(PersonaModel modelo)
         {
-            return Ok("Ok");
+            var resultado = this.personaService.insertarPersona(new infraestructure.Models.PersonaModel {
+                Nombre = modelo.Nombre,
+                Apellido = modelo.Apellido,
+                Email = modelo.Email,
+                Telefono = modelo.Telefono,
+                Edad = modelo.Edad
+            });
+            return Ok(resultado);
+        }
+
+        [HttpPut("modificarPersona/{id}")]
+        public ActionResult<string> modificarPersona(PersonaModel modelo, int id)
+        {
+            var resultado = this.personaService.modificarPersona(new infraestructure.Models.PersonaModel
+            {
+                Nombre = modelo.Nombre,
+                Apellido = modelo.Apellido,
+                Email = modelo.Email,
+                Telefono = modelo.Telefono,
+                Edad = modelo.Edad
+            }, id);
+            return Ok(resultado);
+        }
+
+        [HttpDelete("eliminarPersona/{id}")]
+        public ActionResult<string> eliminarPersona(int id)
+        {
+            var resultado = this.personaService.eliminarPersona(id);
+            return Ok(resultado);
         }
     }
 }

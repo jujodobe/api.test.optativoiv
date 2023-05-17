@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.test.optativoiv", "api.test.optativoiv\api.test.optativoiv.csproj", "{8881C6A2-E3D2-457B-9EC0-40BC55E0480A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infraestructure", "infraestructure\infraestructure.csproj", "{A7C75F57-2603-4731-AEEB-79126119ADDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "infraestructure", "infraestructure\infraestructure.csproj", "{A7C75F57-2603-4731-AEEB-79126119ADDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{D573C9D3-C452-48D5-9376-A1D53D33EDD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{D573C9D3-C452-48D5-9376-A1D53D33EDD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

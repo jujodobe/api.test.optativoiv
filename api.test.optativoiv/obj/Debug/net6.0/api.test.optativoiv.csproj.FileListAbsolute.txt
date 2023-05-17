@@ -33,3 +33,17 @@ C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\inf
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.dll
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.pdb
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.pdb
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Dapper;
 using infraestructure.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 
 namespace infraestructure.Repository
 {
@@ -18,13 +20,14 @@ namespace infraestructure.Repository
             this.connection = new Npgsql.NpgsqlConnection(this._connectionString);
         }
 
+        [Authorize]
         public string insertarPersona(PersonaModel persona)
         {
             try
             {
                 connection.Execute("insert into persona(nombre, apellido, edad, email, telefono) " +
                     " values(@nombre, @apellido, @edad, @email, @telefono)", persona);
-                return "Se inserto correctamente...";
+                return "Se inserto correctamente... ";
             }
             catch (Exception ex)
             {

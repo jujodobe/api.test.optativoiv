@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorio\\APIs\\api.test.optativoiv\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\Services\\Services.csproj",
+      "projectPath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\Services\\obj\\",
+      "outputPath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -227,8 +227,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Repositorio\\APIs\\api.test.optativoiv\\infraestructure\\infraestructure.csproj": {
-              "projectPath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\infraestructure\\infraestructure.csproj"
+            "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\infraestructure\\infraestructure.csproj": {
+              "projectPath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\infraestructure\\infraestructure.csproj"
             }
           }
         }

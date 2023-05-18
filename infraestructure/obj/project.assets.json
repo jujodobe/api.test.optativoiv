@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorio\\APIs\\api.test.optativoiv\\infraestructure\\infraestructure.csproj",
+      "projectUniqueName": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\infraestructure\\infraestructure.csproj",
       "projectName": "infraestructure",
-      "projectPath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\infraestructure\\infraestructure.csproj",
+      "projectPath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\infraestructure\\infraestructure.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\infraestructure\\obj\\",
+      "outputPath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

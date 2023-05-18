@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bYfztcKkUD0AiGaUC8oj/S9agrujJFr1wQv3r4AToQzSihtXPOixnxMzgMOHEheoPWEvRPRz8dzemUF8X+kIZA==",
+  "dgSpecHash": "hMEmEMCN+HP7mmTncABpZFkKRDuSFstRXNBFC8yBV4lgoSLJ0DyX5yp5QRK7YngbkBL5EFW/X8Cqu3pfsGPOkQ==",
   "success": true,
-  "projectFilePath": "C:\\Repositorio\\APIs\\api.test.optativoiv\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Repositorio\\APIs\\Optativo IV\\api.test.optativoiv\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

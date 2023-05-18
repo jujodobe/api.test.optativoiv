@@ -33,3 +33,46 @@ C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\inf
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.dll
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.pdb
 C:\Repositorio\APIs\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.pdb
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\appsettings.Development.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\appsettings.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.exe
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.deps.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.runtimeconfig.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\ref\api.test.optativoiv.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.pdb
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\api.test.optativoiv.xml
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Dapper.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Npgsql.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\Services.pdb
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\bin\Debug\net6.0\infraestructure.pdb
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.AssemblyInfoInputs.cache
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.AssemblyInfo.cs
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.csproj.CoreCompileInputs.cache
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\staticwebassets.build.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\staticwebassets.development.json
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\scopedcss\bundle\api.test.optativoiv.styles.css
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.csproj.CopyComplete
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\ref\api.test.optativoiv.dll
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.xml
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.pdb
+C:\Repositorio\APIs\Optativo IV\api.test.optativoiv\api.test.optativoiv\obj\Debug\net6.0\api.test.optativoiv.genruntimeconfig.cache

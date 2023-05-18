@@ -1,4 +1,5 @@
 ﻿using api.test.optativoiv.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Services.Services;
@@ -17,7 +18,7 @@ namespace api.test.optativoiv.Controllers
             this.configuration = configuration;
             this.personaService = new PersonaService(configuration.GetConnectionString("postgresDB"));    
         }
-
+        [Authorize]
         [HttpGet("ListarPersona")]
         public ActionResult<List<PersonaModel>> ListarPersonas()
         {   
@@ -25,6 +26,7 @@ namespace api.test.optativoiv.Controllers
             return Ok(resultado);
         }
 
+        [Authorize]
         [HttpGet("ConsultarPersona/{id}")]
         public ActionResult<PersonaModel> ConsultarPersona(int id)
         {
